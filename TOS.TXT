@@ -213,12 +213,11 @@ The Game is not directed at children under the age of 13. We do not knowingly co
 
 ### 13. Legal Notices, Copyright & Takedowns
 
-Official legal inquiries, intellectual property notices, and takedown requests should be directed to:
+All legal notices, including but not limited to cease and desist letters and other official legal communications, must be sent to **@MudiBro** on Discord OR emailed to **csminecraft@atomicmail.io**.
 
-- **Discord:** **@MudiBro**
-- **Email:** **csminecraft@atomicmail.io**
+To ensure proper handling, legal correspondence should be sent to this email or Discord. Communications sent to other email addresses or Discord accounts may not be received or may not be processed in a timely manner.
 
-These contact channels receive the fastest review and handling. Rights holders submitting content removal requests are requested to provide:  
+Rights holders submitting content removal requests are requested to provide:  
 1. A clear description of the copyrighted work or trademark claimed to be infringed.  
 2. Verification of rights ownership or authorized representation.  
 3. Direct contact information (name, organization, and Discord tag or email address).  
