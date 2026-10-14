@@ -55,9 +55,7 @@ You strictly agree **not** to:
 * Automated detection may occasionally flag false positives; penalties can be appealed through our support contact (see Section 10).
 
 **Special Response for Debuggers / Reverse Engineering Tools**:  
-If the launcher detects that **x64dbg** (or similar debugging/reverse-engineering tools) is running while the Game is active, the launcher will display a warning notification (“x64dbg has been detected.”), terminate the launcher process, and launch a bundled local alert program (**banner.exe**).
-
-This program is **not malware, ransomware, or harmful software**; it displays an alert/warning banner and can be closed at any time via Task Manager or PC restart. No files are encrypted, no data is deleted, and no persistent background services are installed.
+If the launcher detects that **x64dbg** (or similar debugging/reverse-engineering tools) is running while the Game is active, the launcher will display a security notification and terminate the launcher and game process.
 
 ---
 
