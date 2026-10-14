@@ -11,48 +11,48 @@ By downloading, installing, running the CS:MC launcher, or connecting to CS:MC o
 > **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 
 The Game is an independent, free, non-commercial fan project created solely for personal entertainment.  
-* **No Official Affiliation**: It is not affiliated with, endorsed by, sponsored by, or associated with **Valve Corporation**, **Mojang Studios**, **Microsoft**, or **Steam**.  
-* **Trademarks**: **Counter-Strike**, **CS:GO**, **CS2**, **Steam**, and associated logos, trade dress, and names are trademarks or registered trademarks of Valve Corporation. **Minecraft** is a trademark of Mojang Studios / Microsoft Corporation.  
-* **Proprietary Third-Party Assets**: Counter-Strike assets utilized in the Game (including 3D weapon models, textures, player meshes, sound effects, viewmodel animations, particle effects, fonts, and weapon ballistic specifications) are the intellectual property of Valve Corporation. Minecraft base engine and game assets belong to Mojang Studios / Microsoft.  
-* **Acknowledgment of Legal & Copyright Risk**: We acknowledge that offering the Game free of charge, operating without commercial monetization, and disclaiming affiliation do **not** grant a legal license or provide immunity from copyright or trademark infringement claims under applicable intellectual property laws. We operate without an express license from Valve Corporation or Mojang Studios.  
-* **Risk Assumption & Modification Rights**: Players acknowledge that the Game and any associated assets are subject to change, replacement, or complete takedown at any time. If Valve Corporation, Mojang Studios, or any third-party rights holder requests the alteration, substitution, or removal of any assets or services, we will promptly comply without notice or liability to users.  
-* **Takedowns**: For formal rights inquiries and intellectual property takedown notices, see Section 13.
+- **No Official Affiliation**: It is not affiliated with, endorsed by, sponsored by, or associated with **Valve Corporation**, **Mojang Studios**, **Microsoft**, or **Steam**.  
+- **Trademarks**: **Counter-Strike**, **CS:GO**, **CS2**, **Steam**, and associated logos, trade dress, and names are trademarks or registered trademarks of Valve Corporation. **Minecraft** is a trademark of Mojang Studios / Microsoft Corporation.  
+- **Proprietary Third-Party Assets**: Counter-Strike assets utilized in the Game (including 3D weapon models, textures, player meshes, sound effects, viewmodel animations, particle effects, fonts, and weapon ballistic specifications) are the intellectual property of Valve Corporation. Minecraft base engine and game assets belong to Mojang Studios / Microsoft.  
+- **Acknowledgment of Legal & Copyright Risk**: We acknowledge that offering the Game free of charge, operating without commercial monetization, and disclaiming affiliation do **not** grant a legal license or provide immunity from copyright or trademark infringement claims under applicable intellectual property laws. We operate without an express license from Valve Corporation or Mojang Studios.  
+- **Risk Assumption & Modification Rights**: Players acknowledge that the Game and any associated assets are subject to change, replacement, or complete takedown at any time. If Valve Corporation, Mojang Studios, or any third-party rights holder requests the alteration, substitution, or removal of any assets or services, we will promptly comply without notice or liability to users.  
+- **Takedowns**: For formal rights inquiries and intellectual property takedown notices, see Section 13.
 
 ---
 
 ### 2. Eligibility
 
-* You must be at least **13 years old** (or older if required by your local jurisdiction, such as 16 in certain EU member states unless verifiable parental/guardian consent is provided).  
-* Players under 18 years of age should have permission from a parent or legal guardian.  
-* You agree to comply with Minecraft’s official End User License Agreement (EULA) and Commercial Usage Guidelines.
+- You must be at least **13 years old** (or older if required by your local jurisdiction, such as 16 in certain EU member states unless verifiable parental/guardian consent is provided).  
+- Players under 18 years of age should have permission from a parent or legal guardian.  
+- You agree to comply with Minecraft’s official End User License Agreement (EULA) and Commercial Usage Guidelines.
 
 ---
 
 ### 3. Launcher Authentication & Server Connection
 
-* The CS:MC launcher verifies official Minecraft ownership via Microsoft OAuth 2.0 authentication prior to launching the game client.  
-* Dedicated game servers may operate custom matchmaking gateways to route player sessions and prevent username impersonation.  
-* You are solely responsible for securing your Microsoft account credentials and local launcher installation. Do not share login details or session tokens with third parties.  
-* We strictly prohibit attempting to spoof usernames, forge authentication packets, bypass the launcher’s authentication flow, or hijack sessions belonging to other players.  
-* In the event of contested account claims, administration reserves the right to reassign or restrict usernames based on authentication records and session logs.
+- The CS:MC launcher verifies official Minecraft ownership via Microsoft OAuth 2.0 authentication prior to launching the game client.  
+- Dedicated game servers may operate custom matchmaking gateways to route player sessions and prevent username impersonation.  
+- You are solely responsible for securing your Microsoft account credentials and local launcher installation. Do not share login details or session tokens with third parties.  
+- We strictly prohibit attempting to spoof usernames, forge authentication packets, bypass the launcher’s authentication flow, or hijack sessions belonging to other players.  
+- In the event of contested account claims, administration reserves the right to reassign or restrict usernames based on authentication records and session logs.
 
 ---
 
 ### 4. Fair Play & Anti-Cheat
 
 You strictly agree **not** to:  
-* Use hacked clients, speed modifications, fly/hover hacks, abnormal jump boosts, aimbots, triggerbots, wallhacks, ESP, automated macros, or auto-clickers.  
-* Develop, distribute, advertise, sell, or use unauthorized tools or third-party modifications that attack, alter, or disrupt the Game.  
-* Deliberately bypass, reverse engineer, or tamper with the server-side anti-cheat or the launcher’s file integrity checks.  
-* Exploit bugs, glitches, or duplication vulnerabilities; any discovered flaws must be reported immediately.  
-* Manipulate the trading, community market, inventory, or credit systems (including duplicating skins or items).  
-* Ghost, boost, throw competitive matches, collude with opponents, or use alternate accounts to evade disciplinary penalties.
+- Use hacked clients, speed modifications, fly/hover hacks, abnormal jump boosts, aimbots, triggerbots, wallhacks, ESP, automated macros, or auto-clickers.  
+- Develop, distribute, advertise, sell, or use unauthorized tools or third-party modifications that attack, alter, or disrupt the Game.  
+- Deliberately bypass, reverse engineer, or tamper with the server-side anti-cheat or the launcher’s file integrity checks.  
+- Exploit bugs, glitches, or duplication vulnerabilities; any discovered flaws must be reported immediately.  
+- Manipulate the trading, community market, inventory, or credit systems (including duplicating skins or items).  
+- Ghost, boost, throw competitive matches, collude with opponents, or use alternate accounts to evade disciplinary penalties.
 
 **Automated Enforcement**: The Game utilizes automated server-side anti-cheat monitoring player movement, combat mechanics, and network request rates. When violations are detected:  
-* Incidents are logged and online staff receive in-game alerts.  
-* Players exceeding violation thresholds are automatically kicked from the server.  
-* If automated bans are enabled on the server, violations trigger an automatic temporary ban (by default for 24 hours / 1,440 minutes).  
-* Automated detection may occasionally flag false positives; penalties can be appealed through our support contact (see Section 10).
+- Incidents are logged and online staff receive in-game alerts.  
+- Players exceeding violation thresholds are automatically kicked from the server.  
+- If automated bans are enabled on the server, violations trigger an automatic temporary ban (by default for 24 hours / 1,440 minutes).  
+- Automated detection may occasionally flag false positives; penalties can be appealed through our support contact (see Section 10).
 
 **Special Response for Debuggers / Reverse Engineering Tools**:  
 If the launcher detects that **x64dbg** (or similar debugging/reverse-engineering tools) is running while the Game is active, the launcher will display a security notification and terminate the launcher and game process.
@@ -61,75 +61,75 @@ If the launcher detects that **x64dbg** (or similar debugging/reverse-engineerin
 
 ### 5. Player Conduct
 
-* No harassment, bullying, hate speech, threats, sexual or explicit content, spam, advertising, or impersonation of staff or other players.  
-* This applies to public in-game chat, private messaging, and text notes attached to trade offers.  
-* Repeatedly abandoning matches or abusing the matchmaking accept timer disrupts the game for others and may result in queue restrictions or temporary suspensions.  
-* Player communication and behavior must comply with applicable local laws, including the laws of the Kingdom of Saudi Arabia.
+- No harassment, bullying, hate speech, threats, sexual or explicit content, spam, advertising, or impersonation of staff or other players.  
+- This applies to public in-game chat, private messaging, and text notes attached to trade offers.  
+- Repeatedly abandoning matches or abusing the matchmaking accept timer disrupts the game for others and may result in queue restrictions or temporary suspensions.  
+- Player communication and behavior must comply with applicable local laws, including the laws of the Kingdom of Saudi Arabia.
 
 ---
 
 ### 6. Security & Infrastructure Protection
 
 You strictly agree **not** to:  
-* Launch Denial of Service (DoS / DDoS) attacks or deliberately disrupt, degrade, or flood our servers, game nodes, or other players' connections.  
-* Access, probe, or attempt to compromise server infrastructure, databases, APIs, or administrative channels without authorization.  
-* Interfere with or flood the matchmaking coordinator, trade system, or virtual market API endpoints.  
-* Scrape private user data or reverse-engineer systems for exploit purposes.
+- Launch Denial of Service (DoS / DDoS) attacks or deliberately disrupt, degrade, or flood our servers, game nodes, or other players' connections.  
+- Access, probe, or attempt to compromise server infrastructure, databases, APIs, or administrative channels without authorization.  
+- Interfere with or flood the matchmaking coordinator, trade system, or virtual market API endpoints.  
+- Scrape private user data or reverse-engineer systems for exploit purposes.
 
-**Vulnerability Reporting**: If you discover a security flaw or technical bug, please report it privately and responsibly to **mcbombdefusal@yahoo.com**. Do not exploit or publicly disclose vulnerabilities. Serious malicious attacks may be reported to hosting providers or appropriate authorities.
+**Vulnerability Reporting**: If you discover a security flaw or technical bug, please report it responsibly. Do not exploit or publicly disclose vulnerabilities. Serious malicious attacks may be reported to hosting providers or appropriate authorities.
 
 ---
 
 ### 7. Matchmaking & Gameplay
 
-* Matches are formed dynamically from an active queue. Players who fail to accept a found match within the 20-second accept window will be dropped from the proposal so remaining players can be rematched.  
-* **Match Statistics**: In-match scoreboard statistics (kills, deaths, assists, MVPs, round scores) exist strictly in temporary server memory during an active match and are not permanently archived.  
-* We do not guarantee continuous server uptime, instant queue times, or persistent availability of specific map nodes.
+- Matches are formed dynamically from an active queue. Players who fail to accept a found match within the 20-second accept window will be dropped from the proposal so remaining players can be rematched.  
+- **Match Statistics**: In-match scoreboard statistics (kills, deaths, assists, MVPs, round scores) exist strictly in temporary server memory during an active match and are not permanently archived.  
+- We do not guarantee continuous server uptime, instant queue times, or persistent availability of specific map nodes.
 
 ---
 
 ### 8. Virtual Items, In-Game Credits, and Cases
 
-* **No Real-World Value**: In-game credits, weapon skins, cases, keys, and marketplace listings are purely virtual, entertainment-only digital items. They hold zero monetary value in the real world.  
-* **No Real-Money Purchases**: Credits cannot be bought with real money, cannot be exchanged for cash, and cannot be redeemed for real-world goods or services. We do not sell currency or items.  
-* **No Gambling**: Case opening is a simulated in-game mechanic using virtual credits earned exclusively by finishing matches. It is not gambling and offers no real-world payouts or prizes.  
-* **Prohibition on RMT**: You may not sell, buy, or trade virtual items or accounts for real-world money, cryptocurrency, or external value under any circumstances.  
-* **Inventory Authority**: We reserve the right to modify, adjust, revoke, reset, or remove any virtual items, credits, or inventories at any time to patch bugs, reverse duplication exploits, or enforce these Terms. Players hold no personal property or proprietary rights in virtual items.
+- **No Real-World Value**: In-game credits, weapon skins, cases, keys, and marketplace listings are purely virtual, entertainment-only digital items. They hold zero monetary value in the real world.  
+- **No Real-Money Purchases**: Credits cannot be bought with real money, cannot be exchanged for cash, and cannot be redeemed for real-world goods or services. We do not sell currency or items.  
+- **No Gambling**: Case opening is a simulated in-game mechanic using virtual credits earned exclusively by finishing matches. It is not gambling and offers no real-world payouts or prizes.  
+- **Prohibition on RMT**: You may not sell, buy, or trade virtual items or accounts for real-world money, cryptocurrency, or external value under any circumstances.  
+- **Inventory Authority**: We reserve the right to modify, adjust, revoke, reset, or remove any virtual items, credits, or inventories at any time to patch bugs, reverse duplication exploits, or enforce these Terms. Players hold no personal property or proprietary rights in virtual items.
 
 ---
 
 ### 9. Player Content & Intellectual Property
 
-* You retain ownership of content you directly create (such as in-game chat text and trade offer notes).  
-* By sending content through the Game, you grant us a non-exclusive, royalty-free license to store, process, display, and moderate that content solely as required to operate and maintain the Game.  
-* You must not submit content that infringes upon third-party intellectual property or privacy rights.  
-* All third-party game content, trademarks, and assets belong to their respective owners (as detailed in Section 1).
+- You retain ownership of content you directly create (such as in-game chat text and trade offer notes).  
+- By sending content through the Game, you grant us a non-exclusive, royalty-free license to store, process, display, and moderate that content solely as required to operate and maintain the Game.  
+- You must not submit content that infringes upon third-party intellectual property or privacy rights.  
+- All third-party game content, trademarks, and assets belong to their respective owners (as detailed in Section 1).
 
 ---
 
 ### 10. Enforcement, Disciplinary Actions & Appeals
 
-* **Enforcement Powers**: We reserve the right to warn, kick, temporarily suspend, permanently ban, or remove virtual items from any player who violates these Terms, at our sole discretion.  
-* **Permanent Bans**: A permanently banned player loses all access to the Game, servers, and associated virtual items/credits without compensation.  
-* **Legitimate VPN Use vs. Ban Evasion**:  
-  * Using Virtual Private Networks (VPNs) or proxy services for legitimate privacy, security, or network routing optimization is **not** prohibited.  
-  * However, using VPNs, proxies, hardware ID spoofing, or alternate accounts **specifically to evade active bans, bypass matchmaking suspensions, avoid penalty thresholds, or disguise abusive conduct** is strictly prohibited.  
-  * Any alternate accounts or sessions identified as participating in ban evasion will be immediately and permanently banned, and the penalty on the primary account will be extended.  
-* **Appeals**: If you believe a penalty was applied in error, you may submit an appeal to **mcbombdefusal@yahoo.com**. Decisions made by administration regarding appeals are final.  
-* **Compromised Accounts**: We are not liable for lost items resulting from shared or compromised accounts. We may investigate reported incidents in good faith but are under no obligation to restore lost items or credits.  
-* **Service Changes & Termination**: We reserve the right to modify, pause, or permanently discontinue the Game or any server node at any time without notice or liability.
+- **Enforcement Powers**: We reserve the right to warn, kick, temporarily suspend, permanently ban, or remove virtual items from any player who violates these Terms, at our sole discretion.  
+- **Permanent Bans**: A permanently banned player loses all access to the Game, servers, and associated virtual items/credits without compensation.  
+- **Legitimate VPN Use vs. Ban Evasion**:  
+  - Using Virtual Private Networks (VPNs) or proxy services for legitimate privacy, security, or network routing optimization is **not** prohibited.  
+  - However, using VPNs, proxies, hardware ID spoofing, or alternate accounts **specifically to evade active bans, bypass matchmaking suspensions, avoid penalty thresholds, or disguise abusive conduct** is strictly prohibited.  
+  - Any alternate accounts or sessions identified as participating in ban evasion will be immediately and permanently banned, and the penalty on the primary account will be extended.  
+- **Appeals**: If you believe a penalty was applied in error, decisions made by administration regarding appeals are final.  
+- **Compromised Accounts**: We are not liable for lost items resulting from shared or compromised accounts. We may investigate reported incidents in good faith but are under no obligation to restore lost items or credits.  
+- **Service Changes & Termination**: We reserve the right to modify, pause, or permanently discontinue the Game or any server node at any time without notice or liability.
 
 ---
 
 ### 11. Privacy Notice
 
 #### A. Information We Collect and Store
-* **User Identifiers**: Your chosen Minecraft username, client-generated UUID, and launcher session tokens used for authentication, matchmaking, and player tracking.  
-* **Network Connection & IP Logs**: IP addresses, connection timestamps, and port information recorded during connections to the launcher gateway, matchmaking coordinator, and dedicated game nodes.  
-* **Account Verification Data**: Temporary authentication tokens and session data generated during the Microsoft OAuth 2.0 flow and any custom matchmaking gateway interactions.  
-* **Inventory & Virtual Economy Records**: Stored in database files, including owned skins, equipped loadouts, virtual credit balances, marketplace transaction histories, active marketplace listings, item ownership provenance, and trade offers (including sender/receiver usernames, offered item IDs, and optional trade notes up to 128 characters).  
-* **Anti-Cheat & Security Telemetry**: Automated logs recording usernames, detected cheat categories, violation metrics, combat raycast discrepancies, abnormal movement vectors, and event timestamps.  
-* **Local Device Storage**: The CS:MC launcher stores local configuration files, UI preferences, cache files, and local session authentication tokens on your device.
+- **User Identifiers**: Your chosen Minecraft username, client-generated UUID, and launcher session tokens used for authentication, matchmaking, and player tracking.  
+- **Network Connection & IP Logs**: IP addresses, connection timestamps, and port information recorded during connections to the launcher gateway, matchmaking coordinator, and dedicated game nodes.  
+- **Account Verification Data**: Temporary authentication tokens and session data generated during the Microsoft OAuth 2.0 flow and any custom matchmaking gateway interactions.  
+- **Inventory & Virtual Economy Records**: Stored in database files, including owned skins, equipped loadouts, virtual credit balances, marketplace transaction histories, active marketplace listings, item ownership provenance, and trade offers (including sender/receiver usernames, offered item IDs, and optional trade notes up to 128 characters).  
+- **Anti-Cheat & Security Telemetry**: Automated logs recording usernames, detected cheat categories, violation metrics, combat raycast discrepancies, abnormal movement vectors, and event timestamps.  
+- **Local Device Storage**: The CS:MC launcher stores local configuration files, UI preferences, cache files, and local session authentication tokens on your device.
 
 #### B. Purpose of Processing
 We use collected data solely to:  
@@ -139,65 +139,63 @@ We use collected data solely to:
 4. Maintain server stability, monitor network health, and enforce these Terms.
 
 #### C. Hosting, Data Flows & International Cross-Border Data Transfers
-* We **do not sell, rent, monetize, or trade** your personal data.  
-* We **do not use** third-party commercial analytics, advertising trackers, or external behavioral profiling SDKs.  
-* **Hosting Infrastructure via Hetzner**:  
-  * Our dedicated server infrastructure, matchmaking coordinators, and authentication gateways are hosted on cloud and dedicated server instances provided by **Hetzner Online GmbH** (with primary data centers located in the European Union, including Germany and Finland).  
-  * **Technical Data Flow**: When you launch the game client, authenticate through the gateway, request matchmaking, or connect to a game node, network telemetry—including your IP address, connection timestamps, routing headers, and game packets—flows directly across Hetzner’s network hardware and data center infrastructure. Hetzner processes this technical infrastructure data on our behalf solely to transmit traffic, maintain network stability, and mitigate DDoS attacks in compliance with applicable data protection standards.  
-* **Cross-Border Transfers under Saudi PDPL**:  
-  * Because our services are governed under the laws of the Kingdom of Saudi Arabia, the transmission of personal data relating to individuals in Saudi Arabia to servers located outside the Kingdom (in Germany and Finland) constitutes a cross-border personal data transfer under the Saudi Personal Data Protection Law (PDPL) and its *Implementing Regulation on Personal Data Transfer outside the Kingdom*.  
-  * Cross-border transfers to our EU hosting infrastructure are conducted in accordance with statutory conditions:  
+- We **do not sell, rent, monetize, or trade** your personal data.  
+- We **do not use** third-party commercial analytics, advertising trackers, or external behavioral profiling SDKs.  
+- **Hosting Infrastructure via Hetzner**:  
+  - Our dedicated server infrastructure, matchmaking coordinators, and authentication gateways are hosted on cloud and dedicated server instances provided by **Hetzner Online GmbH** (with primary data centers located in the European Union, including Germany and Finland).  
+  - **Technical Data Flow**: When you launch the game client, authenticate through the gateway, request matchmaking, or connect to a game node, network telemetry—including your IP address, connection timestamps, routing headers, and game packets—flows directly across Hetzner’s network hardware and data center infrastructure. Hetzner processes this technical infrastructure data on our behalf solely to transmit traffic, maintain network stability, and mitigate DDoS attacks in compliance with applicable data protection standards.  
+- **Cross-Border Transfers under Saudi PDPL**:  
+  - Because our services are governed under the laws of the Kingdom of Saudi Arabia, the transmission of personal data relating to individuals in Saudi Arabia to servers located outside the Kingdom (in Germany and Finland) constitutes a cross-border personal data transfer under the Saudi Personal Data Protection Law (PDPL) and its *Implementing Regulation on Personal Data Transfer outside the Kingdom*.  
+  - Cross-border transfers to our EU hosting infrastructure are conducted in accordance with statutory conditions:  
     1. **Operational Necessity / Performance of Contract**: Transfer is strictly necessary to perform our service agreement with you (i.e., routing game packets, maintaining low-latency matchmaking, and delivering multiplayer gameplay requested by the player);  
     2. **Minimum Data Standard**: The transferred data is strictly limited to the minimum technical telemetry necessary to operate the online game session;  
     3. **Safeguards & Integrity**: Transfers do not prejudice national security or the vital interests of the Kingdom, and do not undermine the level of protection guaranteed to personal data under the PDPL. Transmission across borders is protected by transport-layer encryption, network firewalls, and strict server access controls.  
-* **Transfers under GDPR**:  
-  * For players located within the European Economic Area (EEA), all server processing hosted by Hetzner in Germany and Finland remains directly within the EEA, fully complying with intra-EEA data protection principles under the GDPR.  
-* **Legal & Emergency Disclosures**:  
-  * Data may be disclosed only if required by a valid legal subpoena, competent court order, or applicable statutory law, or to defend our systems against severe cyberattacks and DoS incidents.
+- **Transfers under GDPR**:  
+  - For players located within the European Economic Area (EEA), all server processing hosted by Hetzner in Germany and Finland remains directly within the EEA, fully complying with intra-EEA data protection principles under the GDPR.  
+- **Legal & Emergency Disclosures**:  
+  - Data may be disclosed only if required by a valid legal subpoena, competent court order, or applicable statutory law, or to defend our systems against severe cyberattacks and DoS incidents.
 
 #### D. Data Retention & Lifecycle
 We align our data retention policies with actual technical server operations:  
-* **Temporary Authentication Data**: Session tokens and temporary authentication records from the Microsoft OAuth 2.0 flow and matchmaking gateways are retained only as long as needed for the active session and are purged upon logout, token expiration, or server restart.  
-* **Connection & Server IP Logs**: Server access logs (containing IP addresses and connection timestamps) are maintained in standard rolling log files for approximately **14 to 30 days** for operational debugging, DDoS defense, and ban enforcement, after which they are automatically rotated and overwritten.  
-* **Anti-Cheat Incident Logs**: Security telemetry recording confirmed or suspected violations is retained for up to **90 days** to support ban investigations and player appeal evaluations, after which it is purged.  
-* **Inventory & Economy Data**: Persistent player profiles (usernames, UUIDs, virtual inventory contents, credit balances, and transaction histories) are stored for the operational life of the server, or until you submit a verified data erasure request.
+- **Temporary Authentication Data**: Session tokens and temporary authentication records from the Microsoft OAuth 2.0 flow and matchmaking gateways are retained only as long as needed for the active session and are purged upon logout, token expiration, or server restart.  
+- **Connection & Server IP Logs**: Server access logs (containing IP addresses and connection timestamps) are maintained in standard rolling log files for approximately **14 to 30 days** for operational debugging, DDoS defense, and ban enforcement, after which they are automatically rotated and overwritten.  
+- **Anti-Cheat Incident Logs**: Security telemetry recording confirmed or suspected violations is retained for up to **90 days** to support ban investigations and player appeal evaluations, after which it is purged.  
+- **Inventory & Economy Data**: Persistent player profiles (usernames, UUIDs, virtual inventory contents, credit balances, and transaction histories) are stored for the operational life of the server, or until you submit a verified data erasure request.
 
 #### E. Data Subject Rights & Jurisdictional Scope
 Data protection rights and applicable exemptions are determined by the specific legal framework governing your personal data:  
-* **Applicable Frameworks**:  
-  * **European Economic Area (EEA)**: If you reside in the EEA, the processing of your personal data is governed by the EU General Data Protection Regulation (GDPR).  
-  * **Kingdom of Saudi Arabia**: Where personal data is processed within the Kingdom of Saudi Arabia, relates to individuals located in the Kingdom, or is subject to our operations under Saudi governing law, processing is governed by the Saudi Personal Data Protection Law (PDPL) (Royal Decree No. M/19, as amended) and its Executive Regulations.  
-  * **Other Jurisdictions**: Players residing outside these regions enjoy privacy rights as provided under their applicable local laws.  
-* **Scope of Rights (Subject to Applicable Law)**:  
+- **Applicable Frameworks**:  
+  - **European Economic Area (EEA)**: If you reside in the EEA, the processing of your personal data is governed by the EU General Data Protection Regulation (GDPR).  
+  - **Kingdom of Saudi Arabia**: Where personal data is processed within the Kingdom of Saudi Arabia, relates to individuals located in the Kingdom, or is subject to our operations under Saudi governing law, processing is governed by the Saudi Personal Data Protection Law (PDPL) (Royal Decree No. M/19, as amended) and its Executive Regulations.  
+  - **Other Jurisdictions**: Players residing outside these regions enjoy privacy rights as provided under their applicable local laws.  
+- **Scope of Rights (Subject to Applicable Law)**:  
   Depending on which legal framework applies to your data and the specific circumstances of processing, you may have the following statutory rights:  
-  * **Right to Know / Access**: To be informed of the purpose and legal basis of data processing, and to request access to or a copy of your stored personal data.  
-  * **Right to Correction / Rectification**: To request the correction, completion, or updating of inaccurate or incomplete personal records.  
-  * **Right to Destruction / Erasure**: To request the destruction or erasure of your personal data when it is no longer necessary for the purposes for which it was collected, or upon withdrawal of consent (where processing was based on consent).  
-  * **Right to Restriction / Objection**: To request restriction of processing or object to processing under certain conditions recognized by law.  
-* **Statutory Limitations & Exemptions**:  
+  - **Right to Know / Access**: To be informed of the purpose and legal basis of data processing, and to request access to or a copy of your stored personal data.  
+  - **Right to Correction / Rectification**: To request the correction, completion, or updating of inaccurate or incomplete personal records.  
+  - **Right to Destruction / Erasure**: To request the destruction or erasure of your personal data when it is no longer necessary for the purposes for which it was collected, or upon withdrawal of consent (where processing was based on consent).  
+  - **Right to Restriction / Objection**: To request restriction of processing or object to processing under certain conditions recognized by law.  
+- **Statutory Limitations & Exemptions**:  
   These rights are not absolute. Under both the Saudi PDPL and the GDPR, requests for data erasure, restriction, or objection may be lawfully limited, delayed, or denied where continued retention is necessary to:  
   1. Maintain infrastructure security, integrity, and operational availability;  
   2. Detect, prevent, investigate, or enforce sanctions against cheating, hacking, ban evasion, item duplication, or abusive conduct;  
   3. Establish, exercise, or defend against legal claims; or  
   4. Comply with mandatory statutory, regulatory, or judicial obligations.  
-* **How to Exercise Your Rights**:  
-  To submit a request regarding your personal data, send an email to **mcbombdefusal@yahoo.com** with the subject line `Data Privacy Request`. To protect account security and prevent unauthorized data tampering or erasure, we require reasonable proof of account identity (such as confirming control via an active launcher session token or registration records). Verified requests will be addressed **free of charge within thirty (30) days** of receipt (subject to any lawful extensions permitted under applicable law for complex requests).  
+- **How to Exercise Your Rights**:  
+  To submit a request regarding your personal data, ensure proper authentication procedures are followed. To protect account security and prevent unauthorized data tampering or erasure, we require reasonable proof of account identity.  
   *Note: Lawful fulfillment of a total account erasure request permanently deletes your username identifier, virtual credit balance, and virtual inventory items, and cannot be reversed.*
 
 #### F. Security Incident Response & Data Breach Policy
 We take the security of player data and server infrastructure seriously. In the event of a suspected security compromise or personal data breach, we follow structured incident response procedures:  
-* **Detection & Forensic Investigation**:  
-  * We continuously monitor authentication gateways, server logs, and matchmaking endpoints for anomalous access patterns, unauthorized database queries, or brute-force attempts.  
-  * Upon identifying a potential vulnerability or breach, administration initiates immediate forensic triage to determine the root cause, scope of compromised systems, and specific categories of data affected.  
-* **Containment, Access Restriction & Token Invalidation**:  
-  * **Immediate Token Revocation**: If launcher session tokens or client credentials are suspected of being compromised, administrators will immediately revoke and invalidate the affected tokens across all matchmaking nodes and gateways, terminating active unauthorized sessions.  
-  * **System Isolation**: Compromised server instances, database connections, or gateway endpoints will be temporarily isolated, taken offline, or placed into maintenance mode to prevent further unauthorized access.  
-  * **Credential & Secret Rotation**: Administrative access credentials, internal API keys, and server communication secrets will be rotated immediately upon detection of an intrusion.  
-* **Breach Notifications to Authorities & Users**:  
-  * **Regulatory Notification**: If a confirmed personal data breach is likely to result in a risk to the rights or personal data of individuals, we will notify the competent supervisory authority (including the **Saudi Data & AI Authority (SDAIA)** under the Saudi PDPL, and/or the relevant European Data Protection Supervisory Authority under the GDPR) without undue delay and within applicable statutory deadlines (such as within 72 hours of becoming aware of the incident, where required by applicable law).  
-  * **User Notification**: Where a breach is assessed as posing a high risk to affected players' rights or security, we will notify affected users without undue delay via prominent launcher notices or direct communication, providing clear details regarding the nature of the breach, the data involved, measures taken to mitigate the incident, and recommended protective actions.  
-* **Reporting Compromised Accounts**:  
-  * If you suspect that your launcher session or account credentials have been accessed by an unauthorized third party, contact **mcbombdefusal@yahoo.com** immediately with the subject line `Security Incident Report`. We will revoke all active session tokens associated with your account to re-secure your session.
+- **Detection & Forensic Investigation**:  
+  - We continuously monitor authentication gateways, server logs, and matchmaking endpoints for anomalous access patterns, unauthorized database queries, or brute-force attempts.  
+  - Upon identifying a potential vulnerability or breach, administration initiates immediate forensic triage to determine the root cause, scope of compromised systems, and specific categories of data affected.  
+- **Containment, Access Restriction & Token Invalidation**:  
+  - **Immediate Token Revocation**: If launcher session tokens or client credentials are suspected of being compromised, administrators will immediately revoke and invalidate the affected tokens across all matchmaking nodes and gateways, terminating active unauthorized sessions.  
+  - **System Isolation**: Compromised server instances, database connections, or gateway endpoints will be temporarily isolated, taken offline, or placed into maintenance mode to prevent further unauthorized access.  
+  - **Credential & Secret Rotation**: Administrative access credentials, internal API keys, and server communication secrets will be rotated immediately upon detection of an intrusion.  
+- **Breach Notifications to Authorities & Users**:  
+  - **Regulatory Notification**: If a confirmed personal data breach is likely to result in a risk to the rights or personal data of individuals, we will notify the competent supervisory authority (including the **Saudi Data & AI Authority (SDAIA)** under the Saudi PDPL, and/or the relevant European Data Protection Supervisory Authority under the GDPR) without undue delay and within applicable statutory deadlines (such as within 72 hours of becoming aware of the incident, where required by applicable law).  
+  - **User Notification**: Where a breach is assessed as posing a high risk to affected players' rights or security, we will notify affected users without undue delay via prominent launcher notices or direct communication, providing clear details regarding the nature of the breach, the data involved, measures taken to mitigate the incident, and recommended protective actions.  
 
 #### G. Children’s Privacy
 The Game is not directed at children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that personal data of a child under 13 has been collected without verifiable parental consent, we will promptly take steps to delete that information.
@@ -206,10 +204,10 @@ The Game is not directed at children under the age of 13. We do not knowingly co
 
 ### 12. Disclaimer of Warranties & Limitation of Liability
 
-* **“AS IS” and “AS AVAILABLE”**: The Game, launcher, and online services are provided on an **“AS IS”** and **“AS AVAILABLE”** basis without warranties of any kind, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, non-infringement, or title.  
-* **No Guarantee**: We do not warrant that the Game will be error-free, uninterrupted, secure, or free from bugs, latency, packet loss, or data corruption. You download, install, run the mod and launcher software, and connect to our servers entirely at your own discretion and risk.  
-* **Limitation of Liability**: To the fullest extent permitted by applicable law, neither the project developers, server operators, nor contributors shall be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including loss of data, virtual items, goodwill, or system damage, arising out of or related to your use of or inability to use the Game.  
-* **Statutory Exceptions**: Nothing in these Terms shall limit or exclude any liability that cannot be lawfully excluded or limited under applicable law, including liability for gross negligence, willful misconduct, intentional fraud, or any statutory consumer rights that cannot be waived or disclaimed under mandatory applicable laws in your jurisdiction of residence.
+- **“AS IS” and “AS AVAILABLE”**: The Game, launcher, and online services are provided on an **“AS IS”** and **“AS AVAILABLE”** basis without warranties of any kind, whether express, implied, or statutory, including but not limited to implied warranties of merchantability, fitness for a particular purpose, non-infringement, or title.  
+- **No Guarantee**: We do not warrant that the Game will be error-free, uninterrupted, secure, or free from bugs, latency, packet loss, or data corruption. You download, install, run the mod and launcher software, and connect to our servers entirely at your own discretion and risk.  
+- **Limitation of Liability**: To the fullest extent permitted by applicable law, neither the project developers, server operators, nor contributors shall be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including loss of data, virtual items, goodwill, or system damage, arising out of or related to your use of or inability to use the Game.  
+- **Statutory Exceptions**: Nothing in these Terms shall limit or exclude any liability that cannot be lawfully excluded or limited under applicable law, including liability for gross negligence, willful misconduct, intentional fraud, or any statutory consumer rights that cannot be waived or disclaimed under mandatory applicable laws in your jurisdiction of residence.
 
 ---
 
@@ -217,30 +215,31 @@ The Game is not directed at children under the age of 13. We do not knowingly co
 
 Official legal inquiries, intellectual property notices, and takedown requests should be directed to:
 
-* **Email:** **mcbombdefusal@yahoo.com**
+- **Discord:** **@MudiBro**
+- **Email:** **csminecraft@atomicmail.io**
 
-This contact address receives the fastest review and handling. Rights holders submitting content removal requests are requested to provide:  
+These contact channels receive the fastest review and handling. Rights holders submitting content removal requests are requested to provide:  
 1. A clear description of the copyrighted work or trademark claimed to be infringed.  
 2. Verification of rights ownership or authorized representation.  
-3. Direct contact information (name, organization, and email address).  
+3. Direct contact information (name, organization, and Discord tag or email address).  
 4. A good-faith statement that the use of the material is not authorized by the rights holder.
 
 ---
 
 ### 14. Governing Law and Jurisdiction
 
-* **Governing Law**: These Terms and any dispute, claim, or controversy arising out of or related to the Game shall be governed by and construed in accordance with the substantive laws of the **Kingdom of Saudi Arabia**, without regard to conflict-of-law principles.  
-* **Forum & Jurisdiction**: Subject to mandatory applicable laws, any dispute or legal proceeding shall be brought before the competent courts located in **Jeddah, Saudi Arabia**.  
-* **Enforceability & Consumer Protection Notice**: The designation of governing law and jurisdiction does not deprive consumers of any mandatory statutory protections or dispute resolution rights guaranteed under the laws of their country or state of habitual residence (such as mandatory EU consumer protection laws allowing consumers to bring claims in their local member state courts). The enforceability of foreign forum selection and governing law clauses varies across international jurisdictions; users are encouraged to obtain independent legal advice regarding their specific rights.
+- **Governing Law**: These Terms and any dispute, claim, or controversy arising out of or related to the Game shall be governed by and construed in accordance with the substantive laws of the **Kingdom of Saudi Arabia**, without regard to conflict-of-law principles.  
+- **Forum & Jurisdiction**: Subject to mandatory applicable laws, any dispute or legal proceeding shall be brought before the competent courts located in **Jeddah, Saudi Arabia**.  
+- **Enforceability & Consumer Protection Notice**: The designation of governing law and jurisdiction does not deprive consumers of any mandatory statutory protections or dispute resolution rights guaranteed under the laws of their country or state of habitual residence (such as mandatory EU consumer protection laws allowing consumers to bring claims in their local member state courts). The enforceability of foreign forum selection and governing law clauses varies across international jurisdictions; users are encouraged to obtain independent legal advice regarding their specific rights.
 
 ---
 
 ### 15. General Provisions
 
-* **Severability**: If any provision of these Terms is deemed unlawful, void, or unenforceable by a court of competent jurisdiction, that provision shall be enforced to the maximum extent permissible or severed, without affecting the validity and enforceability of the remaining provisions.  
-* **No Waiver**: Our failure to enforce any right or provision of these Terms at any time shall not constitute a waiver of that right or future rights.  
-* **Entire Agreement**: These Terms constitute the entire agreement between you and us concerning the Game, superseding any prior understandings or communications.  
-* **Modifications & Material Changes**:  
-  * We reserve the right to amend or update these Terms and the Privacy Notice from time to time.  
-  * **Material Changes**: If we make significant or material revisions (such as changes affecting your legal rights, dispute resolution mechanisms, data processing practices, or financial liability), we will provide advance notice through prominent announcements in the CS:MC launcher or on our primary communication channels. Where required by applicable law, we will obtain your affirmative consent or fresh agreement upon your next login before you may continue accessing the services.  
-  * **Non-Material Changes**: Minor updates, administrative clarifications, formatting revisions, or typographical corrections take effect immediately upon publication, reflected by the updated “Last updated” date at the top of this document. Continued access to the Game after non-material changes constitutes acknowledgment of the revised Terms.
+- **Severability**: If any provision of these Terms is deemed unlawful, void, or unenforceable by a court of competent jurisdiction, that provision shall be enforced to the maximum extent permissible or severed, without affecting the validity and enforceability of the remaining provisions.  
+- **No Waiver**: Our failure to enforce any right or provision of these Terms at any time shall not constitute a waiver of that right or future rights.  
+- **Entire Agreement**: These Terms constitute the entire agreement between you and us concerning the Game, superseding any prior understandings or communications.  
+- **Modifications & Material Changes**:  
+  - We reserve the right to amend or update these Terms and the Privacy Notice from time to time.  
+  - **Material Changes**: If we make significant or material revisions (such as changes affecting your legal rights, dispute resolution mechanisms, data processing practices, or financial liability), we will provide advance notice through prominent announcements in the CS:MC launcher or on our primary communication channels. Where required by applicable law, we will obtain your affirmative consent or fresh agreement upon your next login before you may continue accessing the services.  
+  - **Non-Material Changes**: Minor updates, administrative clarifications, formatting revisions, or typographical corrections take effect immediately upon publication, reflected by the updated “Last updated” date at the top of this document. Continued access to the Game after non-material changes constitutes acknowledgment of the revised Terms.
