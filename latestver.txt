@@ -1,1 +1,1 @@
-https://github.com/NDPortal/CMSC/releases/download/release/csgomc-1.0.1.15.jar
+https://github.com/NDPortal/CMSC/releases/download/release/csgomc-1.0.1.16.jar
